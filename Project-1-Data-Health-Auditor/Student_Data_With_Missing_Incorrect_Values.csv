@@ -1,0 +1,26 @@
+Student_ID,Full_Name,Age,Gender,City,Attendance_Percentage,Midterm_Score,Final_Score,Fee_Paid
+1001,Aarav Sharma,20,Male,Mumbai,92.5,85,88,TRUE
+1002,Ananya Patel,21,Female,Ahmedabad,88,92,95,TRUE
+1003,Rohan Verma,,M,Delhi,75.2,78,72,FALSE
+1004,Priya Nair,22,Female,Kochi,,64,60,TRUE
+1005,Kabir Singh,19,Male,Chandigarh,95,,91,TRUE
+1006,Sneha Iyer,21,F,Chennai,62.4,90,,FALSE
+1007,Devansh Gupta,20,Male,Jaipur,81.1,71,75,
+1008,Diya Reddy,23,Female,Hyderabad,,88,85,TRUE
+1009,Aditya Joshi,-5,Male,Pune,89.3,82,80,TRUE
+1010,Isha Malhotra,20,Female,Nagpur,91,95,98,FALSE
+1011,Vihaan Rao,21,Male,Bengaluru,78.5,60,65,TRUE
+1012,Meera Sen,22,Female,Kolkata,84.2,74,78,TRUE
+1013,Arjun Mehta,19,Male,Surat,90,89,92,FALSE
+1014,Kavya Kapoor,,Female,Indore,68.9,,61,TRUE
+1015,Siddharth Jain,20,Male,Lucknow,73,65,70,TRUE
+1016,Riya Das,21,Female,Bhopal,96.1,98,100,
+1017,Yash Agarwal,22,Male,Patna,82.4,77,80,TRUE
+1018,Tanvi Bhat,20,Female,Vadodara,77.8,83,85,FALSE
+1019,Dhruv Saxena,150,Male,Agra,85,70,72,TRUE
+1020,Pooja Chaudhary,21,Female,Varanasi,91.2,88,90,TRUE
+1001,Aarav Sharma,20,Male,Mumbai,92.5,85,88,TRUE
+1002,Ananya Patel,21,Female,Ahmedabad,88,92,95,TRUE
+1021,Nikhil Bansal,22,Male,Thane,79.5,76,78,FALSE
+1022,Tara Deshmukh,20,Female,Nashik,83,81,84,TRUE
+1002,Ananya Patel,21,Female,Ahmedabad,88,92,95,TRUE
