@@ -14,8 +14,9 @@ Data_Science_Projects/
 │   ├── Student_Data_With_Missing_Incorrect_Values.csv
 │   └── data_health_checker.ipynb
 │
-├── Project-2-Upcoming-Project/
-│   └── ...
+├── Project-2-Automated Energy Demand Forecasting & Supply - Chain Dashboard/
+│   └── app.ipynb
+|   └── README.md
 │
 └── README.md
 
